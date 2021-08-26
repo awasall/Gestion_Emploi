@@ -1,13 +1,17 @@
 <resources>
+
     <string name="app_name">Gestion Emploi</string>
     <string name="connection">Connexion</string>
     <string name="login">Identifiant</string>
     <string name="password">Mot de passe</string>
     <string name="connect">Connecter</string>
     <string name="sign_up">S\'inscrire</string>
-    <string name="email">isi@groupeisi.com</string>
+    <string name="email">email</string>
     <string name="presentation">Presentation</string>
-    <string name="formation">Formation</string>
+    <string name="offer">offre</string>
+    <string name="favorites">favoris</string>
+    <string name="offer_title">Titre de l\'offre</string>
+    <string name="offer_description">Description de l\'offre</string>
     <string name="marks">Notes</string>
     <string name="university">Université</string>
     <string name="help">Aide</string>
@@ -25,10 +29,15 @@
     <string name="error_connection">Erreur de connexuin</string>
     <string name="error_parameters"> Paramètres Incorrect </string>
     <string name="success_save">Inscription succes </string>
-    <string name="description">Situé au km1 avenue cheikh Anta Diop, l\'institut supérieur d\'informatique ISI, est sous la tutelle du Ministère de l\'Enseignement Supérieur privé qui est signataire de tous les diplomes délivrés, sous le controle de l\'ANAQ-Sup.
-L\'ISI, contribue depuis plus de 27 ans a la formation des jeunes cadres africains.
-Avec l\'ambition du PDG, de participer a la diversification de l\'offre de formation au Sénégal et dans la sous-région, l\'ISI a su se développer au fil des ans, comptant ainsi en son sein 09 campus, ou se cotoient plus de trente nationalités, qui constituent la belle famille isienne.
-Le groupe dispose des experts de très haut niveau universitaire et spécialistes dans plusieurs domaines de l\'Informatique et de la gestion.
-Grace a son expertise et la qualité de ses services, Le Groupe ISI délivre des diplomes de Licence et Master reconnus a la fois par le monde de l\'entreprise et par les instances d\'accréditation nationales « ANAQ SUP »et panafricaines « CAMES ».
-Avec une offre de formation diversifiée dans les métiers d\'avenir, une innovation permanente de ses programmes, et les brillants résultats obtenus aux différents examens et concours, L\'Institut Supérieur d\'informatique  » ISI » est leader dans son domaine au Sénégal et dans la sous-région.</string>
+        <string name="description">GestionEmploi.com, site de recrutement et carrière leader au Sénégal, est le point de passage quotidien pour les recruteurs et les candidats à l\’emploi du Sénégal, de la sous-région et de la diaspora.</string>
+    <string name="favorites">favoris</string>
+    <string name="Company_Name">Nom de l\'entreprise</string>
+    <string name="Position_type">Type de poste</string>
+    <string name="place">lieu</string>
+    <string name="phone_number">numéro de Téléphone</string>
+
+
+
+
+
 </resources>

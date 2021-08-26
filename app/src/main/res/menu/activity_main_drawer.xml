@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_presentation"
+            android:icon="@drawable/ic_presentation"
+            android:title="@string/presentation" />
+
+        <item
+            android:id="@+id/nav_offre"
+            android:icon="@drawable/ic_offre"
+            android:title="@string/offre" />
+        <item
+            android:id="@+id/nav_favoris"
+            android:icon="@drawable/ic_favoris"
+            android:title="Mes favoris" />
+        <item
+            android:id="@+id/nav_CV"
+            android:icon="@drawable/ic_cv"
+            android:title="Creation_CV" />
+        <item
+            android:id="@+id/nav_help"
+            android:icon="@drawable/ic_help"
+            android:title="@string/help" />
+
+    </group>
+</menu>
